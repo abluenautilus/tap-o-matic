@@ -317,8 +317,6 @@ bool shouldCalibrate()
 
 void calibrate(CvCalibrationData &saved, int ledSeqDelay)
 {
-	bool calibrationReady = true;
-
 	// do reverse LED startup sequence while
 	// checking that we definitely want to calibrate
 	for (int i = 0; i < (5000 / ledSeqDelay); i++)
