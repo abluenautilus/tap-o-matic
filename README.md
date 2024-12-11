@@ -70,7 +70,7 @@ Next, we need to put some electrical tape (or other insulator) on the front side
 
 Place the jacks and pan pots in their holes. Put the front panel on them (to make sure everything is perfectly aligned), do up the nuts on the jacks to hold everything in place and then flip the board over so that you can solder it all in.
 
-For the two jacks that go over the power connector, you may need to trim just a little bit of the plastic (less than 1mm!) out from the sides so that they can fit flush to the board. This can be done with a pair of dikes.
+For the two jacks that go over the power connector, you may need to trim just a little bit of the plastic (less than 1mm!) out from the sides so that they can fit flush to the board. This can be done with a pair of dikes, a file or a dremmel.
 
 Take the panel back off again.
 
