@@ -11,10 +11,12 @@ A delay created by Harry Richardson based on the source code from the Olivia Art
  - 1 * DG408 multiplexer
  - 3 * 4051 multiplexer
  - 9 * 820R resistors (exact value doesn't matter - these set the LED brightness. Anything between about 800 and 1000 ohms should be good).
+ - 4 * 16-pin DIP sockets.
  - 5 * 100nF capacitors
  - 1 * Daisy Patch Submodule
  - 4 2x5 headers (to connect to the Daisy).
  - 1 2x5 power connector (with no shroud - there isn't room!)
+ - Knobs to taste :-)
 
 Thonk should be good for the pots, the tall trimmers with detents, and the jacks.
 
