@@ -19,7 +19,9 @@ A delay created by Harry Richardson based on the source code from the Olivia Art
 Thonk should be good for the pots, the tall trimmers with detents, and the jacks.
 
 https://www.thonk.co.uk/shop/alpha-9mm-pots/ (B10K, Vertical mount)
+
 https://www.thonk.co.uk/shop/ttpots/ (B10K, Get the ones with the centre detent!)
+
 https://www.thonk.co.uk/shop/thonkiconn/
 
 The hard one is the switches. I got mine from JPR Electronics, where I they call it the "IP67 vertical on-on" switch.
