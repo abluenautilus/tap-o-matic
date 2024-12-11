@@ -52,7 +52,7 @@ First solder all the components on the back side of the board:
  - Headers
  - Power connector.
 
-![image info](images/back-side.png)
+![image info](images/Back-side.jpg)
 
 This is how should look when you're done.
 
@@ -64,7 +64,7 @@ Because the sliders (and two jack sockets) go on top of backside components, you
 
 Next, we need to put some electrical tape (or other insulator) on the front side, so that the sliders and jacks don't touch any of our solder.
 
-![image info](images/insulate.png)
+![image info](images/Insulate.jpg)
 
 ### Jacks and Pan Pots
 
