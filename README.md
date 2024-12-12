@@ -14,8 +14,8 @@ A delay created by Harry Richardson based on the source code from the Olivia Art
  - 4 * 16-pin DIP sockets.
  - 5 * 100nF capacitors
  - 1 * Daisy Patch Submodule
- - 4 2x5 headers (to connect to the Daisy).
- - 1 2x5 power connector (with no shroud - there isn't room!)
+ - 4 * 2x5 headers (to connect to the Daisy).
+ - 1 * 2x5 power connector (with no shroud - there isn't room!)
  - Knobs to taste :-)
 
 Thonk should be good for the pots, the tall trimmers with detents, and the jacks.
@@ -80,7 +80,7 @@ Take the panel back off again.
 
 Place the rest of the front panel hardware on the board, put the front panel on, then flip it over and solder.
 
-Note that the sliders are EXTREMELY close to the pan pots, as I was trying to give as much room for fingers on the main knobs as possible. According to the datasheets, this should have been fine, but **if I did another revision then I would move the pan pots down by 1mm**. Fortunately the sliders actually have a good bit of play in them, so you should be able to get them in fine. (But make sure the pan pots are soldered first, since you need those to be perfectly aligned with the front panel holes).
+Note that the sliders are EXTREMELY close to the pan pots, as I was trying to give as much room for fingers on the main knobs as possible. According to the datasheets, this should have been fine, but **if I did another revision then I would move the pan pots down by 1mm (and update the front panel!)**. Fortunately the sliders actually have a good bit of play in them, so you should be able to get them in fine. (But make sure the pan pots are soldered first, since you need those to be perfectly aligned with the front panel holes).
 
 ## Flashing Firmware
 
