@@ -11,15 +11,19 @@ A delay created by Harry Richardson based on the source code from the Olivia Art
  - 1 * DG408 multiplexer
  - 3 * 4051 multiplexer
  - 9 * 820R resistors (exact value doesn't matter - these set the LED brightness. Anything between about 800 and 1000 ohms should be good).
+ - 4 * 16-pin DIP sockets.
  - 5 * 100nF capacitors
  - 1 * Daisy Patch Submodule
- - 4 2x5 headers (to connect to the Daisy).
- - 1 2x5 power connector (with no shroud - there isn't room!)
+ - 4 * 2x5 headers (to connect to the Daisy).
+ - 1 * 2x5 power connector (with no shroud - there isn't room!)
+ - Knobs to taste :-)
 
 Thonk should be good for the pots, the tall trimmers with detents, and the jacks.
 
 https://www.thonk.co.uk/shop/alpha-9mm-pots/ (B10K, Vertical mount)
+
 https://www.thonk.co.uk/shop/ttpots/ (B10K, Get the ones with the centre detent!)
+
 https://www.thonk.co.uk/shop/thonkiconn/
 
 The hard one is the switches. I got mine from JPR Electronics, where I they call it the "IP67 vertical on-on" switch.
@@ -50,7 +54,7 @@ First solder all the components on the back side of the board:
  - Headers
  - Power connector.
 
-![image info](images/back-side.png)
+![image info](images/Back-side.jpg)
 
 This is how should look when you're done.
 
@@ -62,13 +66,13 @@ Because the sliders (and two jack sockets) go on top of backside components, you
 
 Next, we need to put some electrical tape (or other insulator) on the front side, so that the sliders and jacks don't touch any of our solder.
 
-![image info](images/insulate.png)
+![image info](images/Insulate.jpg)
 
 ### Jacks and Pan Pots
 
 Place the jacks and pan pots in their holes. Put the front panel on them (to make sure everything is perfectly aligned), do up the nuts on the jacks to hold everything in place and then flip the board over so that you can solder it all in.
 
-For the two jacks that go over the power connector, you may need to trim just a little bit of the plastic (less than 1mm!) out from the sides so that they can fit flush to the board. This can be done with a pair of dikes.
+For the two jacks that go over the power connector, you may need to trim just a little bit of the plastic (less than 1mm!) out from the sides so that they can fit flush to the board. This can be done with a pair of dikes, a file or a dremmel.
 
 Take the panel back off again.
 
@@ -76,7 +80,7 @@ Take the panel back off again.
 
 Place the rest of the front panel hardware on the board, put the front panel on, then flip it over and solder.
 
-Note that the sliders are EXTREMELY close to the pan pots, as I was trying to give as much room for fingers on the main knobs as possible. According to the datasheets, this should have been fine, but **if I did another revision then I would move the pan pots down by 1mm**. Fortunately the sliders actually have a good bit of play in them, so you should be able to get them in fine. (But make sure the pan pots are soldered first, since you need those to be perfectly aligned with the front panel holes).
+Note that the sliders are EXTREMELY close to the pan pots, as I was trying to give as much room for fingers on the main knobs as possible. According to the datasheets, this should have been fine, but **if I did another revision then I would move the pan pots down by 1mm (and update the front panel!)**. Fortunately the sliders actually have a good bit of play in them, so you should be able to get them in fine. (But make sure the pan pots are soldered first, since you need those to be perfectly aligned with the front panel holes).
 
 ## Flashing Firmware
 
