@@ -1,6 +1,6 @@
 # Tap-O-Matic
 
-A delay created by Harry Richardson based on the source code from the Olivia Artz Time Machine
+Modification of the delay created by Harry Richardson based on the source code from the Olivia Artz Time Machine
 
 ## BOM
  - 9 * Bournes sliders (PTL30-15R0-104B2).

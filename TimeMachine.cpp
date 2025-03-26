@@ -422,8 +422,8 @@ int main(void)
 
 	hw.SetAudioBlockSize(7); // number of samples handled per callback
 
-	dsy_gpio_pin gatePin = CLOCK;
-	gate.Init(&gatePin);
+	Pin gatePin = CLOCK;
+	gate.Init(gatePin);
 
 	// initialize LEDs
 	leds[0].Init(LED_DRY, false);

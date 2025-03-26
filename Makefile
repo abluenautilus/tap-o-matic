@@ -8,8 +8,8 @@ USE_DAISYSP_LGPL=1
 CPP_SOURCES = time_machine_hardware.cpp TimeMachine.cpp
 
 # Library Locations
-LIBDAISY_DIR = ../../libDaisy/
-DAISYSP_DIR = ../../DaisySP/
+LIBDAISY_DIR = /Users/jonask/Music/Daisy/libDaisy
+DAISYSP_DIR = /Users/jonask/Music/Daisy/DaisySP
 
 # Core location, and generic Makefile.
 SYSTEM_FILES_DIR = $(LIBDAISY_DIR)/core
